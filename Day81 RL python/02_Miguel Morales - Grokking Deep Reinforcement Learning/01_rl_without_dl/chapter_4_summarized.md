@@ -334,8 +334,8 @@ graph LR
 
 Q-function ကို **high value** ဖြင့် initialize လုပ်ပြီး greedy action ရွေးခြင်း။ Agent က "paradise မှာ ရှိတယ်" လို့ ယုံကြည်ပြီး explore လုပ်ပါတယ်။
 
-$$Q(a) \leftarrow \text{optimistic\_estimate} \quad \forall a$$
-$$N(a) \leftarrow \text{initial\_count} \quad \forall a$$
+$$Q(a) \leftarrow \text{optimistic estimate} \quad \forall a$$
+$$N(a) \leftarrow \text{initial count} \quad \forall a$$
 
 ```mermaid
 graph TD
